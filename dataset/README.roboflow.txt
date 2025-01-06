@@ -1,8 +1,8 @@
 
-padel-objects - v14 2025-01-06 6:18pm
+padel-objects - v16 2025-01-06 9:39pm
 ==============================
 
-This dataset was exported via roboflow.com on January 6, 2025 at 6:19 PM GMT
+This dataset was exported via roboflow.com on January 6, 2025 at 9:40 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 229 images.
+The dataset includes 228 images.
 Players-balls-rackets are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:

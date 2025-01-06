@@ -1,4 +1,4 @@
-# padel-objects > 2025-01-06 6:18pm
+# padel-objects > 2025-01-06 9:39pm
 https://universe.roboflow.com/padelcoachworkspace/padel-objects
 
 Provided by a Roboflow user
