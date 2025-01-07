@@ -10,7 +10,7 @@ names: ['ball', 'inactive-ball', 'net', 'player', 'racket']
 
 roboflow:
   workspace: padelcoachworkspace
-  project: padel-objects
-  version: 16
+  project: objects-pqfyz
+  version: 17
   license: CC BY 4.0
-  url: https://universe.roboflow.com/padelcoachworkspace/padel-objects/dataset/16
+  url: https://universe.roboflow.com/padelcoachworkspace/objects-pqfyz/dataset/17

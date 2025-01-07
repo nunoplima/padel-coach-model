@@ -1,5 +1,5 @@
-# padel-objects > 2025-01-06 9:39pm
-https://universe.roboflow.com/padelcoachworkspace/padel-objects
+# objects > 2025-01-07 7:12pm
+https://universe.roboflow.com/padelcoachworkspace/objects-pqfyz
 
 Provided by a Roboflow user
 License: CC BY 4.0
